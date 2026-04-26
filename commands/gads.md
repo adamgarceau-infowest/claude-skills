@@ -45,20 +45,16 @@ CUSTOMER_ID = "3570376140"   # InfoWest MCC child account
 
 | ID | Name | Status | Landing Page |
 |----|------|--------|--------------|
-| (original) | AG1 - Local Intent | ENABLED | neighbors.infowest.com/residential-internet-page |
-| (original) | AG2 - Fiber Internet | PAUSED | neighbors.infowest.com/residential-internet-page |
-| (original) | AG3 - Speed & Reliability | PAUSED | neighbors.infowest.com/residential-internet-page |
-| (original) | AG4 - Conquest | PAUSED | neighbors.infowest.com/residential-internet-page |
-| (original) | AG5 - Price & Plans | PAUSED | neighbors.infowest.com/residential-internet-page |
-| (original) | AG6 - Moving / New Service | PAUSED | neighbors.infowest.com/residential-internet-page |
-| `193533853845` | AG7 - Business Internet | PAUSED | https://infowest.com/scott/ |
-| `194700598026` | AG8 - VoIP / Business Phone | PAUSED | https://infowest.com/service/infowest-voice/ |
+| `195072362853` | AG1 - Local Intent | ENABLED | neighbors.infowest.com/residential-internet-page |
+| `195880140395` | AG2 - Fiber Internet | ENABLED | neighbors.infowest.com/residential-internet-page |
+| `194429862639` | AG3 - Speed & Reliability | ENABLED | neighbors.infowest.com/residential-internet-page |
+| `195880141835` | AG4 - Conquest | ENABLED | neighbors.infowest.com/residential-internet-page |
+| `193533852925` | AG5 - Price & Plans | ENABLED | neighbors.infowest.com/residential-internet-page |
+| `197688332520` | AG6 - Moving / New Service | ENABLED | neighbors.infowest.com/residential-internet-page |
+| `193533853845` | AG7 - Business Internet | ENABLED | https://infowest.com/scott/ |
+| `194700598026` | AG8 - VoIP / Business Phone | ENABLED | https://infowest.com/service/infowest-voice/ |
 
-**Wave schedule:**
-- Wave 1 (now): AG6 + AG2
-- Wave 2 (week 2): AG3 + AG5
-- Wave 3 (week 3): AG7 + AG8
-- Wave 4+ (week 4): AG4 Conquest (60% of AG1 bids)
+**Rollout:** Wave plan dropped 2026-04-20. All 8 ad groups running simultaneously to identify top performers — we don't know which will perform best yet, need concurrent data.
 
 ---
 
